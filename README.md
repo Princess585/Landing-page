@@ -1,2 +1,3 @@
-Build your portfolio project (Week 3): Project Landing Page
+Solo Project
+By Princess Daisy
 # Landing-page
